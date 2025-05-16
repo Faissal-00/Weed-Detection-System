@@ -1,0 +1,15 @@
+train: G:/AgriTech/agri_projects/3-Weed_Detection/Weed-Detection/v11/new_dataset/split_data/images/train
+val: G:/AgriTech/agri_projects/3-Weed_Detection/Weed-Detection/v11/new_dataset/split_data/images/val
+test: G:/AgriTech/agri_projects/3-Weed_Detection/Weed-Detection/v11/new_dataset/split_data/images/test
+
+nc: 8  # Number of classes
+names: [
+    "Kena",
+    "Lamb's Quarters",
+    "Little Mallow",
+    "Moti Dudhi",
+    "Bilayat",
+    "Choti Dudhi",
+    "Gajar Gavat",
+    "Dwarf Cassia"
+]

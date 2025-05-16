@@ -1,0 +1,6 @@
+train: G:/AgriTech/agri_projects/3-Weed_Detection/Weed-Detection/v6/dataset/images/train
+val: G:/AgriTech/agri_projects/3-Weed_Detection/Weed-Detection/v6/dataset/images/val
+test: G:/AgriTech/agri_projects/3-Weed_Detection/Weed-Detection/v6/dataset/images/test
+
+nc: 2  # Number of classes
+names: ["crop", "weed"]  # Class names
